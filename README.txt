@@ -30,3 +30,5 @@ date date,
 time varchar(10)
 );
 
+this is the mysql structure for the program
+
