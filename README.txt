@@ -1,7 +1,7 @@
 ************************************ Order placing program *********************************
 
 This program is used to place an order and save it to the database and send to the another pc
-this program uses socket programming with tkinter. this program accurately shows the amout of 
+this program uses socket programming with tkinter. this program accurately shows the amount of 
 order placed with options of mode of payment and mode of eating. this is the ready to use
 program by anybody. GUI works fine.
 
